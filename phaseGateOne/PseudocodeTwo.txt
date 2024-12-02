@@ -1,0 +1,17 @@
+Question:
+3) write a program that prompt the user to enter three integers and display them increasing order
+
+Pseudocode
+
+1) prompt the user to read an integer between 0 and 1000
+2)Save it as number
+3) calculate the number % 10 
+4) store as firstInteger
+5) calculate the number %100/10
+6) store as secondInteger
+7) calculate the number/100
+8) store as thirdInteger
+9)Calculate the sum by:
+ firstInteger + secondInteger +thirdInteger
+10) store as sum
+11) display sum 
