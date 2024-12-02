@@ -1,9 +1,7 @@
 import java.util.Scanner;
-import java.util.Random;
 public class TaskOne{
 public static void main(String[] args){
 Scanner scanner = new Scanner(System.in);
-Random random = new Random(100).nextInt();
 
 System.out.print("Enter a number:");
 int firstNumber = scanner.nextInt();
