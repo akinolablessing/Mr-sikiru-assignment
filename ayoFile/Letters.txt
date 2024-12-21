@@ -1,0 +1,10 @@
+
+public class Letters{
+ public static void main(String[] ayomide){
+ 
+ String name = "ayomide";
+ for(int count=0; count<name.length(); count++){
+  System.out.print(name[count]);
+  }
+ }
+}

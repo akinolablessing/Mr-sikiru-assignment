@@ -1,0 +1,9 @@
+ Pseudocode
+prompt the user to enter  the amount of water in kilogram
+store it
+collect the initial temperature
+store it
+collect the final temperature
+store it
+calculate the energy needed to heat water 
+store it as weight of water in kilogram * (final temperature - initial temperature )* 4184 

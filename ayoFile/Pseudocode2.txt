@@ -1,0 +1,7 @@
+  Pseudocode
+prompt the user to enter weight in pounds
+store it 
+collect height in inches 
+store it
+calculate BMI
+display BMI

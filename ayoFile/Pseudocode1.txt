@@ -1,0 +1,7 @@
+  Pseudocode
+prompt the user to enter velocity in meter/ second
+store it
+collect the acceleration
+store it
+calculate the minimum runway length
+display it 
