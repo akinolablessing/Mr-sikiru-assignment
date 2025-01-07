@@ -1,0 +1,5 @@
+
+Pseudocode
+1) prompt the user to enter two integers under 100
+2) enter the sum of the two integers
+3)if the answer is correct print true if no print false 

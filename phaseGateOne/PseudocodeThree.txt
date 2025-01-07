@@ -1,0 +1,15 @@
+ Pseudocode
+1) prompt the user to enter a number
+2)store it as firstNumber
+3)prompt the user to enter a number 
+4)store it as secondNumber
+5)prompt the user to enter a number
+6)store it as thirdNumber
+7)if firstNumber > secondNumber or firstNumber > thirdNumber )
+8) display "firstNumber"
+9)if secondNumber > firstNumber or secondNumber > thirdNumber )
+10) display "secondNumber"
+11)if thirdNumber> firstNumber or  thirdNumber > secondNumber )
+12)display "thirdNumber"
+
+
