@@ -1,0 +1,119 @@
+.counter-text{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.counter-page{
+    margin-top:  20px;
+    /*gap: 50px;*/
+}
+.counter-landing{
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.counter-sign-in{
+    margin-top: 18px;
+
+}
+.counter-heading{
+    display: flex;
+}
+.heading{
+    margin-top: 200px;
+}
+.counter-size{
+    display: flex;
+    flex-direction: row;
+    margin-top: 400px;
+}
+.getStarted{
+    background-size: 30px;
+    background-color: blue;
+    width: 120px;
+    height: 44px;
+    color: white;
+
+}
+.empty-button{
+    display: flex;
+    flex-direction: row;
+    width: 120px;
+    height: 44px;
+    gap: 500px;
+    margin-top: 10px;
+    margin-right:  3px;
+}
+.watch{
+    display: flex;
+    flex-direction: row;
+
+}
+.ohh{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    gap: 13px;
+}
+.about-us{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+.text-under-about-us{
+    display: flex;
+    flex-direction: row;
+    margin-left: 255px;
+}
+.space{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.services{
+    display: flex;
+    flex-direction: column;
+}
+.guardianship{
+    display: flex;
+    margin-top: 200px;
+
+}
+.children{
+    display: flex;
+    flex-direction: row;
+
+}
+.description{
+    display: flex;
+    flex-direction: row;
+}
+.children-button{
+    background-size: 30px;
+    background-color: blue;
+    width: 120px;
+    height: 44px;
+    color: white;
+}
+
+.man-text{
+    display: flex;
+    flex-direction: row;
+
+}
+.menu{
+
+    margin-left: 200px;
+    margin-top: 180px;
+}
+.class{
+    display: flex;
+    flex-direction: row;
+}
+.rectangle{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 1100px;
+}
